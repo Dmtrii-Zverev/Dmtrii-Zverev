@@ -1,40 +1,87 @@
-# Привет, я Дмитрий Зверев 👋
+# Dmitry Zverev
 
-Специализируюсь на backend-разработке на Python.  
-Студент магистратуры ИТМО по направлению Прикладная информатика. 
-Разрабатываю REST API, работаю с PostgreSQL и Docker.  
-Ищу стажировку / позицию Junior Backend Developer.
+Python Backend Developer
 
----
-
-## 🛠 Stack
-
-Backend: Python, Django, Django REST Framework  
-Databases: PostgreSQL, SQLite  
-DevOps: Docker, Docker Compose, Nginx, GitHub Actions (CI/CD)  
-Tools: Git, Linux, Pytest, Unittest, REST API
-
-
-
-## ⚙️ Практические навыки
-
-*   **Разработка REST API** на Django (DRF)
-*   **Базы данных**: Проектирование моделей и работа с PostgreSQL
-*   **DevOps & Инфраструктура**: Контейнеризация (Docker, Docker Compose)
-*   **Деплой**: Настройка Linux-серверов с использованием Nginx
-*   **Тестирование**: Покрытие кода тестами (Pytest, Unittest)
-*   **Командная разработка**: Работа с Git (feature branches, pull requests)
-
-
-## 💼 Сейчас ищу
-
-Стажировку / позицию Junior Backend Developer  
-Формат: удалённо или гибрид  
-Готов приступить сразу
+Backend developer focused on building web services and REST APIs.
 
 ---
 
-## 📬 Контакты
+## Tech Stack
 
-Telegram: https://t.me/Reahmen  
-Email: zverev.dmtrii@yandex.ru
+Python  
+Django / Django REST Framework  
+FastAPI  
+PostgreSQL  
+Docker  
+Linux  
+Git  
+
+---
+
+## Backend Skills
+
+REST API design  
+Authentication (JWT)  
+Database schema design  
+Async programming (asyncio)  
+CI/CD pipelines  
+Docker deployment  
+
+---
+
+## Featured Projects
+
+### Foodgram API
+Backend service for recipe platform.
+
+Tech stack:
+Python • Django • DRF • PostgreSQL • Docker
+
+Features:
+- user authentication
+- subscriptions
+- favorites
+- shopping list generation
+
+Repository:
+https://github.com/Dmtrii-Zverev/foodgram
+
+---
+
+### Async URL Shortener
+
+Asynchronous service for generating short download links.
+
+Tech stack:
+Python • Flask • asyncio • aiohttp • PostgreSQL
+
+Repository:
+https://github.com/Dmtrii-Zverev/async-yacut
+
+---
+
+### Quiz Service API
+
+Backend service for quiz application.
+
+Features:
+- quizzes
+- categories
+- random questions
+- answer validation
+
+Tech stack:
+Python • Django • DRF • PostgreSQL
+
+Repository:
+https://github.com/Dmtrii-Zverev/higher-web-practice-quiz-python
+
+---
+
+## Education
+
+ITMO University  
+MSc Frontend & Backend Development
+
+Yandex Practicum  
+Python Backend Developer
